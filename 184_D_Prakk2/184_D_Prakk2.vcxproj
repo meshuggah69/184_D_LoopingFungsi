@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4841e1f2-7804-433a-bc79-594b90891c14}</ProjectGuid>
-    <RootNamespace>My184DPrak2</RootNamespace>
+    <ProjectGuid>{e351eded-2f24-4588-a8f9-f04e0776c153}</ProjectGuid>
+    <RootNamespace>My184DPrakk2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>184_D_Prak3</ProjectName>
+    <ProjectName>184_D_Prak2</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="184_D_Prak3.cpp" />
+    <ClCompile Include="184_D_Prak2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
